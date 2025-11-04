@@ -20,14 +20,14 @@ Power BI for interactive dashboards
 
 Dataset source: email_marketing.db
 
-**📊 Key Metrics**
+##**📊 Key Metrics**
 
 Metric	Value  
 Overall Open Rate	59.72%  
 Overall Click Rate	18.07%  
 Overall Unsubscribe Rate	5.05%  
 
-**🧠 Insights & Findings**
+##**🧠 Insights & Findings**
 
 **1. Campaign Performance by Category**
 
@@ -60,7 +60,7 @@ These issues are especially high in promotion and newsletter categories.
 Re-engagement emails have lower unsubscribe complaints, meaning users respond well to personalized content.
 
 
-**✅ Recommendations for Improvement**
+##**✅ Recommendations for Improvement**
 
 ✔ **Optimize Send Time:** Focus email campaigns between 10 AM–12 PM to maximize engagement.
 ✔ **Segment Users & Personalize Content:** Use behavioral data to send relevant content (especially for re-engagement and newsletter categories).
