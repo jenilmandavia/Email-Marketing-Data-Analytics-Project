@@ -13,21 +13,22 @@ What are the major reasons for unsubscribes?
 
 What strategic actions can reduce subscriber churn?
 
-This project uses:
-
+This project uses:  
 SQL for data analysis
 
 Power BI for interactive dashboards
 
 Dataset source: email_marketing.db
 
-📊 Key Metrics
-Metric	Value
-Overall Open Rate	59.72%
-Overall Click Rate	18.07%
-Overall Unsubscribe Rate	5.05%
+**📊 Key Metrics**
 
-🧠 Insights & Findings
+Metric	Value  
+Overall Open Rate	59.72%  
+Overall Click Rate	18.07%  
+Overall Unsubscribe Rate	5.05%  
+
+**🧠 Insights & Findings**
+
 **1. Campaign Performance by Category**
 
 Re-engagement & Newsletter campaigns had the highest open rates (~60%) and lowest unsubscribe rates which stood at (4.87%) and (4.82%)
@@ -47,11 +48,11 @@ Engagement drops sharply after 2 PM, and unsubscribe counts increase slightly.
 
 **4. Reasons for Unsubscription**
 
-Most common unsubscribe reasons:
-Privacy Concerns
-Not Relevant
-Found better brand
-Too many emails
+Most common unsubscribe reasons:  
+Privacy Concerns  
+Not Relevant  
+Found better brand  
+Too many emails  
 
 These issues are especially high in promotion and newsletter categories.
 
